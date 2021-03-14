@@ -1,0 +1,23 @@
+@font-face {
+    src: url('/resources/fonts/Fleftex_M.ttf');
+}
+
+.label {
+    -fx-font-family: 'Fleftex';
+}
+
+.button {
+    -fx-font-family: 'Fleftex';
+}
+
+.combo-box {
+    -fx-font-family: 'Fleftex';
+}
+
+.text-field {
+    -fx-font-family: 'Fleftex';
+}
+
+.table-cell {
+    -fx-font-family: 'Fleftex';
+}
